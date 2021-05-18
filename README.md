@@ -1,3 +1,3 @@
 >**HELLO WORLD!**
 
-~ _Applications and you_
+~ _Open Source for Everyone_
