@@ -7,8 +7,7 @@
 
 
 ```Bash
-
-apps=(
+Apps=(
   'glasss           : NPM - Glassmorphism'
   'glasss-cli       : NPM - Create Glassmorphism App'
   'Kechup           : Django Web App for Orders'
@@ -29,8 +28,9 @@ apps=(
   'Infinite-Rainbow : Web App to learn 7 colors of rainbow'
 )
 
-
-echo ${apps[@]}
-
+for i in "${Apps[@]}"
+do
+    echo $i
+done
 
 ```
