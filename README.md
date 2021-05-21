@@ -26,6 +26,7 @@ Apps=(
   'google-homepage  : Web App clone of google search'
   'MasterClone      : Web App clones such as Apple, Prime, Bitcoin'
   'Infinite-Rainbow : Web App to learn 7 colors of rainbow'
+  '-_-              : Programming Sorting Algorithms in Python 3'
 )
 
 for i in "${Apps[@]}"
@@ -34,3 +35,4 @@ do
 done
 
 ```
+
