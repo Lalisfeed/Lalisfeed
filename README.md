@@ -29,10 +29,6 @@ Apps=(
   '-_-              : Programming Sorting Algorithms in Python 3'
 )
 
-for i in "${Apps[@]}"
-do
-    echo $i
-done
-
+for i in "${Apps[@]}"; do echo $i; done
 ```
 
