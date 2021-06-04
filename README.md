@@ -32,3 +32,11 @@ Apps=(
 for i in "${Apps[@]}"; do echo $i; done
 ```
 
+
+<div align="center">
+  
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
+  
+</div>
