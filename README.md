@@ -40,3 +40,11 @@ for i in "${Apps[@]}"; do echo $i; done
 [![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
   
 </div>
+
+
+
+<div align="center">
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Lalisfeed.Lalisfeed" />
+
+</div>
